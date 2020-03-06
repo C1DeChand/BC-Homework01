@@ -8,6 +8,13 @@ body {
     background-color: #d9dcd6;
 }
 
+button {
+    background-color: #2a607c;
+    font-size: 100%;
+    border: 0;
+    padding: 0;
+}
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
